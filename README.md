@@ -1,6 +1,6 @@
 # Getting-and-Cleaning-Data-Course-Project
 
-# <span style="font-size:0.75em;">Purpose of this project: To demonstrate your ability to collect, work with, and clean a data set.</span>
+<span style="font-size:0.75em;">Purpose of this project: To demonstrate your ability to collect, work with, and clean a data set.</span>
 # Grading Critera Overview
 1. The submitted data set is tidy. 
 2. The Github repo contains the required scripts.
